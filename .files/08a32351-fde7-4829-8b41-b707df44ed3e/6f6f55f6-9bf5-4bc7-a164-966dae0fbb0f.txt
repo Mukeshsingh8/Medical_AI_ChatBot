@@ -1,0 +1,23 @@
+ISSN 2229 -5518   
+ 
+IJSER © 2021  
+http://www.ijser.org  commonly related symptoms else it provides the patient with 
+Symptom 2 to check and identify, if the patient says “Yes” then  the 
+given disease is identified along with other commonly related 
+symptoms or else it provides the patient with Symptom 3 and this 
+way the chatbot provides 43 symptoms to the patient to detect their 
+disease, as shown in Fig.2. 
+ 
+Fig.(2) Flowchart of program  
+ 
+4 EXPERIMENTAL  RESULTS  
+Three different outputs are shown where the disease is identified 
+from the present symptoms and other related symptoms are given 
+from the AI based chatbot system.  
+Our system identifies the diseases and other related symptoms 
+with given disease once the patient identifies and says “yes” for the 
+present symptom. The fact that it provides not only the disease, but 
+also other common symptoms make it different from the other 
+projects of this kind.  
+ 
+a) DISEASE IDENTIFI ED VERTIGO

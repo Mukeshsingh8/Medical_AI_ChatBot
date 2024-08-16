@@ -1,0 +1,5 @@
+[
+    {"name": "John Doe ", "age": "28", "email": "johndoe@example.com"},
+    {"name": " Jane Roe", "age": "31", "email": "janeroe@example.com", "extra_field": "remove_this"},
+    {"name": "Alice Smith", "email": "alicesmith@example.com"} 
+]

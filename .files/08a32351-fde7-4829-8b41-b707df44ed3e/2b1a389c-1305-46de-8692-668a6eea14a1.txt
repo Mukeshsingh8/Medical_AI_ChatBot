@@ -1,0 +1,18 @@
+experience. At an equivalent time, they provide corporations to 
+enhance the client’s engagement method and operational 
+potency by reducing the standard price of customer service. 
+Although no systematic review of chatbots for lifestyle 
+modification programs has been revealed , there are several 
+reviews on chatbots covering health care problems starting 
+from mental health support and smoking cessation to sickness 
+identification [2].  
+ 
+Process - The proposed idea is to create a health care chatbot 
+system using Artificial Intellige nce that can diagnose the 
+disease and provide basic details about the disease before 
+consulting a doctor. The system provides text assistance; you 
+can communicate with bot -like user friendly. The bot will 
+provide that which type of disease you have based o n the user's 
+symptoms and clarify all the user's doubts.  
+The user can achieve the real benefit of a chatbot only when it 
+can diagnose all kind of disease and provide the information.
