@@ -25,10 +25,7 @@ When using python 3.10, got the following error message. Need to use python 3.11
 ## Steps to Replicate 
 
 1. Fork this repository and create a codespace in GitHub as I showed you in the youtube video OR Clone it locally.
-```
-git clone https://github.com/sudarshan-koirala/langchain-openai-chainlit.git
-cd langchain-openai-chainlit
-```
+
 
 2. Rename example.env to .env with `cp example.env .env`and input the OpenAI API key as follows. Get OpenAI API key from this [URL](https://platform.openai.com/account/api-keys). You need to create an account in OpenAI webiste if you haven't already.
    ```
@@ -61,5 +58,4 @@ $ conda deactivate
    chainlit run csv_qa.py -w
    ```
 ---
-## Disclaimer
-This is test project and is presented in my youtube video to learn new stuffs using the openly available resources (models, libraries, framework,etc). It is not meant to be used in production as it's not production ready. You can modify the code and use for your usecases ✌️
+
